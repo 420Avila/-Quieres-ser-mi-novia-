@@ -23,7 +23,7 @@ def exit_(event):
 
 root = Tk()
 root.geometry("600x400")
-root.iconbitmap('C:/Users/420avila/Desktop/GitHub/pruebas tecnicas/queires ser mi novia/love.ico')
+root.iconbitmap('/love.ico')
 root.configure(background= '#ff05e2')
 root.title('RESPONDEME')
 
